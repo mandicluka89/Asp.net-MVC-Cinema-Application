@@ -1,0 +1,70 @@
+﻿@model IEnumerable<BioskopP15.Models.Film>
+@{ 
+        ViewBag.Title = "Index";
+    }
+
+        <div class="jumbotron">
+            <h1>Pretraga</h1>
+        </div>
+
+        <form action="/Home/TraziFilmove" method="get">
+
+            <div class="form-group">
+                <label for="Select1">Odaberite zanr</label>
+                <select id="Select1" name="ZanrId" class="form-control">
+                    <option value="0">Svi Zanrovi</option>
+                    @foreach (var z in ViewBag.zanrovi)
+            {
+                if (z.ZanrId == ViewBag.ZanrId)
+                {
+                            <option value="@z.ZanrId" selected>@z.Naziv</option>
+                        }
+                        else
+                        {
+                            <option value="@z.ZanrId">@z.Naziv</option>
+                        }
+
+                    }
+
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="TextDeoNaslova">Unesite deo naslova</label>
+                <input type="text" id="TextDeoNaslova" class="form-control" name="deoNaslova" value="@ViewBag.naslov" />
+            </div>
+
+            <div class="form-group">
+                <input id="Submit1" type="submit" value="Pronadji" class="btn btn-primary" />
+            </div>
+        </form>
+
+        <table class="table table-bordered table-striped">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Zanr.Naziv)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Naslov)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DatumPrikazivanja)
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Zanr.Naziv)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Naslov)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DatumPrikazivanja)
+                    </td>
+                </tr>
+            }
+
+        </table>

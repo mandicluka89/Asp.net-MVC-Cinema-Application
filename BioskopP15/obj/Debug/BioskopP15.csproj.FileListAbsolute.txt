@@ -1,0 +1,170 @@
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\ApplicationInsights.config
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\csc.exe
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\System.Collections.Immutable.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\vbc.exe
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\VBCSCompiler.exe
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\roslyn\VBCSCompiler.exe.config
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\BioskopP15.dll.config
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\BioskopP15.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\BioskopP15.pdb
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Antlr3.Runtime.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\EntityFramework.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\EntityFramework.SqlServer.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.Web.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.WindowsServer.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.ApplicationInsights.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Google.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Web.Infrastructure.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Newtonsoft.Json.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Owin.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.Helpers.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.Mvc.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.Optimization.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.Razor.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.WebPages.Deployment.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.WebPages.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.WebPages.Razor.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\WebGrease.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.Web.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AI.WindowsServer.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.ApplicationInsights.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.Helpers.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.Mvc.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.Optimization.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.Razor.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.WebPages.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.WebPages.Deployment.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\System.Web.WebPages.Razor.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Antlr3.Runtime.pdb
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Newtonsoft.Json.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\EntityFramework.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\EntityFramework.SqlServer.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Google.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\obj\Debug\BioskopP15.csprojResolveAssemblyReference.cache
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\obj\Debug\BioskopP15.dll
+c:\users\luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\obj\Debug\BioskopP15.pdb
+C:\Users\Luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\obj\Debug\BioskopP15.Migrations.prva.resources
+C:\Users\Luka\documents\visual studio 2015\Projects\BioskopP15\BioskopP15\obj\Debug\BioskopP15.csproj.GenerateResource.Cache
+F:\BioskopP15\BioskopP15\bin\ApplicationInsights.config
+F:\BioskopP15\BioskopP15\bin\roslyn\csc.exe
+F:\BioskopP15\BioskopP15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\BioskopP15\BioskopP15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\BioskopP15\BioskopP15\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\BioskopP15\BioskopP15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\BioskopP15\BioskopP15\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\BioskopP15\BioskopP15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\BioskopP15\BioskopP15\bin\roslyn\System.Collections.Immutable.dll
+F:\BioskopP15\BioskopP15\bin\roslyn\System.Reflection.Metadata.dll
+F:\BioskopP15\BioskopP15\bin\roslyn\vbc.exe
+F:\BioskopP15\BioskopP15\bin\roslyn\VBCSCompiler.exe
+F:\BioskopP15\BioskopP15\bin\roslyn\VBCSCompiler.exe.config
+F:\BioskopP15\BioskopP15\bin\BioskopP15.dll.config
+F:\BioskopP15\BioskopP15\bin\BioskopP15.dll
+F:\BioskopP15\BioskopP15\bin\BioskopP15.pdb
+F:\BioskopP15\BioskopP15\bin\Antlr3.Runtime.dll
+F:\BioskopP15\BioskopP15\bin\EntityFramework.dll
+F:\BioskopP15\BioskopP15\bin\EntityFramework.SqlServer.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.Agent.Intercept.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.DependencyCollector.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.Web.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.WindowsServer.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.ApplicationInsights.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Facebook.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Google.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Twitter.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.Web.Infrastructure.dll
+F:\BioskopP15\BioskopP15\bin\Newtonsoft.Json.dll
+F:\BioskopP15\BioskopP15\bin\Owin.dll
+F:\BioskopP15\BioskopP15\bin\System.Web.Helpers.dll
+F:\BioskopP15\BioskopP15\bin\System.Web.Mvc.dll
+F:\BioskopP15\BioskopP15\bin\System.Web.Optimization.dll
+F:\BioskopP15\BioskopP15\bin\System.Web.Razor.dll
+F:\BioskopP15\BioskopP15\bin\System.Web.WebPages.Deployment.dll
+F:\BioskopP15\BioskopP15\bin\System.Web.WebPages.dll
+F:\BioskopP15\BioskopP15\bin\System.Web.WebPages.Razor.dll
+F:\BioskopP15\BioskopP15\bin\WebGrease.dll
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.DependencyCollector.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.Web.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.AI.WindowsServer.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.ApplicationInsights.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\BioskopP15\BioskopP15\bin\System.Web.Helpers.xml
+F:\BioskopP15\BioskopP15\bin\System.Web.Mvc.xml
+F:\BioskopP15\BioskopP15\bin\System.Web.Optimization.xml
+F:\BioskopP15\BioskopP15\bin\System.Web.Razor.xml
+F:\BioskopP15\BioskopP15\bin\System.Web.WebPages.xml
+F:\BioskopP15\BioskopP15\bin\System.Web.WebPages.Deployment.xml
+F:\BioskopP15\BioskopP15\bin\System.Web.WebPages.Razor.xml
+F:\BioskopP15\BioskopP15\bin\Antlr3.Runtime.pdb
+F:\BioskopP15\BioskopP15\bin\Newtonsoft.Json.xml
+F:\BioskopP15\BioskopP15\bin\EntityFramework.xml
+F:\BioskopP15\BioskopP15\bin\EntityFramework.SqlServer.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Facebook.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Google.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.Twitter.xml
+F:\BioskopP15\BioskopP15\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\BioskopP15\BioskopP15\obj\Debug\BioskopP15.csprojAssemblyReference.cache
+F:\BioskopP15\BioskopP15\obj\Debug\BioskopP15.Migrations.prva.resources
+F:\BioskopP15\BioskopP15\obj\Debug\BioskopP15.csproj.GenerateResource.cache
+F:\BioskopP15\BioskopP15\obj\Debug\BioskopP15.csproj.CoreCompileInputs.cache
+F:\BioskopP15\BioskopP15\obj\Debug\BioskopP15.csproj.CopyComplete
+F:\BioskopP15\BioskopP15\obj\Debug\BioskopP15.dll
+F:\BioskopP15\BioskopP15\obj\Debug\BioskopP15.pdb

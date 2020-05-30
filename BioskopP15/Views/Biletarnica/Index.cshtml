@@ -1,0 +1,20 @@
+﻿@using BioskopP15.Models
+
+@model List<Film>
+
+<div class="row" style="margin-top: 20px;">
+    @foreach (Film flm in Model)
+    {
+        string path = "/Content/Filmovi/" + flm.FilmId + ".jpg";
+        <div class="col-md-2 col-sm-6">
+            <div class="thumbnail">
+                <img src=@path alt=@flm.Naslov>
+                <div class="caption">
+                    <h5>@flm.Naslov</h5>
+                    <p>Vreme projekcije: @flm.DatumPrikazivanja</p>
+                    <p><a href="/Biletarnica/Tickets?id=@flm.FilmId" class="btn btn-primary" role="button">Kupi kartu</a></p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<BioskopP15.Models.Film>
+
+@{
+    ViewBag.Title = "Pretraga";
+}
+
+<h2>Pretraga</h2>
+
+<form action="/Home/Pretraga" method="get">
+    <div class="form-group">
+        <label for="ZanrId"></label>
+        @Html.DropDownList("ZanrId", null,"Svi Zanrovi",htmlAttributes: new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label for="deoNaslova">Unesite deo naslova</label>
+        @Html.TextBox("deoNaslova","", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <input id="Submit1" type="submit" value="Pronadji" />
+    </div>
+</form>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Zanr.Naziv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Naslov)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DatumPrikazivanja)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cena)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Zanr.Naziv)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Naslov)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DatumPrikazivanja)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cena)
+        </td>
+    </tr>
+}
+
+</table>

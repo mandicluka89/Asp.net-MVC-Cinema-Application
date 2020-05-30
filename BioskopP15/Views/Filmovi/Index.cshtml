@@ -1,0 +1,51 @@
+﻿@model IEnumerable<BioskopP15.Models.Film>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Filmovi</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Zanr.Naziv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Naslov)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DatumPrikazivanja)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cena)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Zanr.Naziv)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Naslov)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DatumPrikazivanja)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cena)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.FilmId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.FilmId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.FilmId })
+        </td>
+    </tr>
+}
+
+</table>

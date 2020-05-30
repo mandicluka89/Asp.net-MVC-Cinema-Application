@@ -1,0 +1,73 @@
+﻿@using BioskopP15.Models
+
+@model Biletarnica
+
+@using (Html.BeginForm("Tickets", "Biletarnica"))
+{
+    <input type="hidden" id="film" name="film" value="@Model.Film.FilmId" />
+    <input type="hidden" id="selkarte" name="selkarte" />
+
+    <div class="row" style="margin-top: 20px;">
+        @{
+            string path = "/Content/Filmovi/" + Model.Film.FilmId + ".jpg";
+
+        }
+        <div class="col-md-4 col-sm-6">
+            <div class="thumbnail">
+                <img src=@path alt=@Model.Film.Naslov>
+                <div class="caption">
+                    <h5>@Model.Film.Naslov</h5>
+                    <p>Vreme projekcije: @Model.Film.DatumPrikazivanja</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8 col-sm-12">
+            <h4>Sala 1:</h4>
+            <p>Selektujte zeljena sedista</p>
+            @for (int i = 0; i < 5; i++)
+            {
+                <div class="row">
+                    @for (int j = 1; j <= 10; j++)
+                    {
+                        int id = i * 10 + j;
+                        bool free = true;
+                        foreach (var kar in Model.ProdateKarte)
+                        {
+                            if (kar.BrojSedista == id)
+                            {
+                                free = false;
+                            }
+                        }
+                        <div id="@id" class="@((free)? "free" : "taken")" style="border: 2px solid black; width: 40px; height:40px; float: left; text-align:center;">
+                            @id.ToString()
+                        </div>
+                    }
+                </div>
+            }
+            <div class="row" style="margin-top: 40px;">
+                <p>Cena:</p>
+                <input class="col-md-2" type="text" id="cena" />
+            </div>
+            <div class="row" style="text-align: left; margin-top: 20px;">
+                <button type="submit" class="btn btn-primary">Kupi</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    $(".free").click(function () {
+        $(this).addClass("selected");
+        var karte = $('#selkarte').val();
+        if (karte == '') {
+            $('#selkarte').val($(this).attr('id'));
+        }
+        else {
+            karte = karte + ',' + $(this).attr('id');
+            $('#selkarte').val(karte);
+        }
+        var brojkarata = $('.selected').length;
+        var cena = brojkarata * 300;
+        $('#cena').val(cena.toString() + ' din');
+    });
+    </script>
+            }
